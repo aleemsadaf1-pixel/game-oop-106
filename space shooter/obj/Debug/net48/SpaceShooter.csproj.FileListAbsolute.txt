@@ -1,0 +1,10 @@
+C:\Users\Fast Computers\Desktop\123\bin\Debug\net48\SpaceShooter.exe.config
+C:\Users\Fast Computers\Desktop\123\bin\Debug\net48\SpaceShooter.exe
+C:\Users\Fast Computers\Desktop\123\bin\Debug\net48\SpaceShooter.pdb
+C:\Users\Fast Computers\Desktop\123\obj\Debug\net48\SpaceShooter.csproj.AssemblyReference.cache
+C:\Users\Fast Computers\Desktop\123\obj\Debug\net48\SpaceShooter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fast Computers\Desktop\123\obj\Debug\net48\SpaceShooter.AssemblyInfoInputs.cache
+C:\Users\Fast Computers\Desktop\123\obj\Debug\net48\SpaceShooter.AssemblyInfo.cs
+C:\Users\Fast Computers\Desktop\123\obj\Debug\net48\SpaceShooter.csproj.CoreCompileInputs.cache
+C:\Users\Fast Computers\Desktop\123\obj\Debug\net48\SpaceShooter.exe
+C:\Users\Fast Computers\Desktop\123\obj\Debug\net48\SpaceShooter.pdb
